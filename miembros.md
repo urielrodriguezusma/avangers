@@ -17,5 +17,5 @@
 * Vision
 * Wasp
 * Antman
-* Superman
+* Superman.
 
